@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link, Router } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 import beersImg from '../../assets/beers.png';
 import randomBeerImg from '../../assets/random-beer.png';
 import newBeerImg from '../../assets/new-beer.png';
